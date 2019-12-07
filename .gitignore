@@ -1,0 +1,14 @@
+/node_modules
+/public/storage
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+/.idea
+bootstrap/cache/*.php
+storage/
+public/hot
+public_html/storage
+public_html/hot
+Homestead.yaml
+Homestead.json
+/.vagrant
