@@ -5,7 +5,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 bootstrap/cache/*.php
-storage/app/
 storage/app/public/
 storage/app/framework/cache/
 storage/app/framework/sessions/
